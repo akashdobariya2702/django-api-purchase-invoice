@@ -1,4 +1,4 @@
-# open a tabs in conxole and run below comands to run project (Tested on Ubuntu)
+# open a tabs in console and run below command to run project (Tested on Ubuntu)
 source dj_run.sh
 
 # can add, update or delete company data

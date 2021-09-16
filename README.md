@@ -1,5 +1,4 @@
 # open a tabs in conxole and run below comands to run project (Tested on Ubuntu)
-cd acevenv/
 source dj_run.sh
 
 # can add, update or delete company data
